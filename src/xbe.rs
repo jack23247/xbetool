@@ -1,3 +1,11 @@
+/**
+ * @file xbe.rs
+ * @author Jacopo Maltagliati
+ * @brief XBE file description
+ * @copyright Copyright (c) 2024, Jacopo Maltagliati.
+ *            Released under the MIT License.
+ */
+
 // https://xboxdevwiki.net/XBE
 
 use std::fmt::{Display};

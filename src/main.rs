@@ -1,3 +1,11 @@
+/**
+ * @file main.rs
+ * @author Jacopo Maltagliati
+ * @brief Entry point for xbetool
+ * @copyright Copyright (c) 2024, Jacopo Maltagliati.
+ *            Released under the MIT License.
+ */
+
 mod xbe;
 
 use std::{env, fs};
